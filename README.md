@@ -37,11 +37,15 @@ Our app integrates Spotify's [API](https://developer.spotify.com/documentation/w
 We use the industry-standard protocol for authorization. View the [documentation](https://developer.spotify.com/documentation/web-api/concepts/authorization) for more info. 
 
 <p align="center">
-  <img src="./extras/login.gif" width = "300" height = "600" />
+  <img src="./extras/login.gif" width = "250" height = "550" />
 </p>
 
 ### Discover
 Users can swipe right on what they like, and left on what they don’t and the song will be highlighted green or red accordingly.
+
+<p align="center">
+  <img src="./extras/swipes.gif" width = "250" height = "550" />
+</p>
 
 ### MediaPlayer
 The app will play a 30 second preview of the song automatically and users can control their music playback using a pause and dynamic play button that doubles as a replay button 
@@ -60,11 +64,11 @@ Users can view their swipe history
 ### Coming Soon
 
 <p align="center">
-  <img src="./extras/future1.png" width = "600" height = "350" />
+  <img src="./extras/future1.png" width = "600" height = "300" />
 </p>
 
 <p align="center">
-  <img src="./extras/future2.png" width = "600" height = "350" />
+  <img src="./extras/future2.png" width = "600" height = "300" />
 </p>
 
 ## Base App Wireframe (Figma)
