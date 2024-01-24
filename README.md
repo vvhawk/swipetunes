@@ -11,7 +11,8 @@ Swipetunes is a dynamic music discovery app that lets you find your perfect matc
 </p>
 
 ## Background
-- **Developers**: Vasanth Banumurthy, Benita Abraham, Gabriel Castejon, and Victor Akolo  
+- **Android Development Team**: Vasanth Banumurthy, Benita Abraham, Gabriel Castejon, and Victor Akolo
+- **iOS Development Team**: Vasanth Banumurthy
 
 - This project was part of [CodePath's](https://www.codepath.org/) [Android Development Pathway](https://www.codepath.org/courses/android-development).  
 
@@ -23,7 +24,7 @@ Swipetunes is a dynamic music discovery app that lets you find your perfect matc
 
 ## Implementation
 
-As of now, swipetunes is currently being built for [Android](https://developer.android.com/) using [Kotlin](https://kotlinlang.org/).
+Swipetunes is currently being built for [Android](https://developer.android.com/) using [Kotlin](https://kotlinlang.org/) and [iOS](https://developer.apple.com/) using [Swift](https://developer.apple.com/swift/).
 
 Our app integrates Spotify's [API](https://developer.spotify.com/documentation/web-api) to allow users to sign in and get personalized reccomendations.
 
