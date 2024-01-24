@@ -69,7 +69,7 @@ Users can view their swipe history and even reswipe after a second listen. More 
 </p>
 
 <p align="center">
-  <img src="./extras/future2.png" width = "600" height = "300" />
+  <img src="./extras/future4.png" width = "600" height = "300" />
 </p>
 
 ## Base App Wireframe (Figma)
