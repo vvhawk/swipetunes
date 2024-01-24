@@ -42,24 +42,24 @@ We use the industry-standard protocol for authorization. View the [documentation
 </p>
 
 ### Discover
-Users can swipe right on what they like, and left on what they don’t and the song will be highlighted green or red accordingly.
+Users can swipe right on what they like, and left on what they don’t and the song will be highlighted green or red accordingly. The recommendations adapt dynamically based on what the user swipes. Hence, our algorithm ensures that every session is unique and the content is endless.
 
 <p align="center">
   <img src="./extras/swipes.gif" width = "250" height = "550" />
 </p>
 
 ### MediaPlayer
-The app will play a 30 second preview of the song automatically and users can control their music playback using a pause and dynamic play button that doubles as a replay button 
+The app will play a 30 second preview of the song automatically and users can control their music playback using a pause and dynamic play button that doubles as a replay button .
 
 <p align="center">
   <img src="./extras/playback.png" width = "600" height = "350" />
 </p>
 
 ### Log
-Users can view their swipe history 
+Users can view their swipe history and even reswipe after a second listen. More functionality is coming soon!
 
 <p align="center">
-  <img src="./extras/log.png" width = "250" height = "500" />
+  <img src="./extras/log.gif" width = "250" height = "500" />
 </p>
 
 ### Coming Soon
